@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	tg "github.com/mtgo-labs/mtgo/telegram"
-	"YOUR_PLUGIN_NAME"
+	"github.com/mtgo-labs/plugins/YOUR_PLUGIN_NAME"
 )
 
 func TestPluginName(t *testing.T) {
